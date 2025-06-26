@@ -1,0 +1,50 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+body {
+  background: linear-gradient(to bottom, #363839, #1F2020);
+  margin: 0;
+  padding: 0;
+  font-family: "Inter";
+  min-height: 50vmax;
+  height: 100%;
+  color: white;
+}
+
+.Template {
+  font-family: "Overpass";
+}
+
+.AddOptionButton {
+  font-family: "Noto Sans";
+  font-style: italic;
+  font-weight: 600;
+}
+
+.TemplateSelection {
+  font-family: "Smooch Sans";
+  font-size: x-large;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+
